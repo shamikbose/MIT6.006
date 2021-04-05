@@ -1,0 +1,8 @@
+The problem is that this is not scale invariant. This means that long documents with 99%
+same words seem farther than short documents with 10% same words.
+This can be fixed by normalizing by the number of words: 
+where |Di| is the number of words in document i. The geometric (rescaling) interpretation
+of this would be that:
+or the document distance is the angle between the vectors. An angle of 0◦ means the two
+documents are identical whereas an angle of 90◦ means there are no common words. This
+approach was introduced by [Salton, Wong, Yang 1975].
