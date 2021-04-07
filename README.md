@@ -3,3 +3,5 @@
  ## Table of contents:
  1. [Algorithmic thinking, peak finding](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%201)
  2. [Models of computation, document distance](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%202)
+ 3. [Sorting: Insertion, Merge Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%203)
+ 4. [Heaps, Heapsort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%204)
