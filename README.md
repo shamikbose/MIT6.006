@@ -5,3 +5,4 @@
  2. [Models of computation, document distance](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%202)
  3. [Sorting: Insertion, Merge Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%203)
  4. [Heaps, Heapsort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%204)
+ 5. [Binary Search Trees](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%205)
