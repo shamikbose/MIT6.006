@@ -6,7 +6,9 @@
  2. [Models of computation, document distance](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%202)
  ### Sorting
  3. [Sorting: Insertion, Merge Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%203)
- 5. [Heaps, Heapsort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%204)
- 6. [Binary Search Trees](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%205)
- 7. [Balanced BST, AVL Trees](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%206)
- 8. [Counting Sort, Radix Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%207)
+ 4. [Heaps, Heapsort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%204)
+ 5. [Binary Search Trees](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%205)
+ 6. [Balanced BST, AVL Trees](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%206)
+ 7. [Counting Sort, Radix Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%207)
+### Hashing
+ 8. [Hashing, Chaining](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%208)
