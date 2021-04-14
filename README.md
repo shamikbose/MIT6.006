@@ -12,3 +12,5 @@
  7. [Counting Sort, Radix Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%207)
 ### Hashing
  8. [Hashing, Chaining](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%208)
+ 9. [Table Doubling, Karp-Rabin](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%209)
+10. 
