@@ -14,3 +14,5 @@
  8. [Hashing, Chaining](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2008)
  9. [Table Doubling, Karp-Rabin](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2009)
 10. [Open Addressing](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2010)
+### Numerics
+11. [Integer Arithmetic](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2011)
