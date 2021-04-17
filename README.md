@@ -17,3 +17,5 @@
 ### Numerics
 11. [Integer Arithmetic, Newton's method](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2011)
 12. [Multiplication, Division](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2012)
+### Graph Search
+13. [Breadth-First Search (BFS)](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2013)
