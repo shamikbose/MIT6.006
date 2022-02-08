@@ -20,3 +20,5 @@
 ### Graph Search
 13. [Breadth-First Search (BFS)](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2013)
 14. [Depth-First Search (DFS), Topological Sort](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2014)
+### Shortest paths computation
+15. [Single-source shortest paths](https://github.com/shamikbose/MIT6.006/tree/main/Lecture%2015)
